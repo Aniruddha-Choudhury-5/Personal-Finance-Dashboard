@@ -1,4 +1,4 @@
-# Personal-Finance-Dashboard
+# Personal Finance Dashboard
 
 This is a simple web application built using **Flask**, a Python web framework, to track transactions. The app allows users to add transactions with details like amount, category, and date, and view a dashboard of all transactions. It stores transactions in a **Linked List** data structure.
 
